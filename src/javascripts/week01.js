@@ -4,7 +4,7 @@ require.context('../images/', true, /\.(gif|jpg|png|svg|eot|ttf|woff|woff2)$/i)
 require.context('../stylesheets/', true, /\.(css|scss)$/i)
 
 // First: Set up your name
-let std_name = "Nils Murrugarra-Llerena"
+let std_name = "Coleton Watt"
 document.querySelector('#std_name').innerHTML = `<strong>${std_name}</strong>`
 
 // [Fall 2022]  - JavaScript
